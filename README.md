@@ -1,4 +1,4 @@
-# lolenc
+# lol-encryptor
 This is a simple interactive cryptographic file encrypter and decryptor programmed using python
 SO anyone without additionla knowlege can use the file
 This Program uses cryptographic library ie Fernet
